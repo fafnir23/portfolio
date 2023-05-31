@@ -1,0 +1,85 @@
+
+const data = [
+    {
+        image: "/images/projects/mentor.png",
+        title: "Mentorverse",
+        description:
+            "Connect with experienced mentors who can guide you towards your personal and professional goals.",
+        tags: [
+            "ReactJS",
+            "MaterialUI",
+            "NodeJS",
+            "ExpressJS",
+            "MongoDB",
+            "Socket.IO",
+            "Vercel",
+        ],
+        preview: "https://mentorverse.vercel.app",
+        github: "https://github.com/senhai-kun/Find_A_Mentor"
+    },
+    {
+        image: "/images/projects/sh.png",
+        title: "Senhai Connect",
+        description:
+            "Experience the joy of watching your favorite videos with your friends and family, no matter where they are.",
+        tags: [
+            "ReactJS",
+            "MaterialUI",
+            "Bootstrap",
+            "NodeJS",
+            "ExpressJS",
+            "Socket.IO",
+            "Vercel",
+        ],
+        preview: "https://sh-connect.vercel.app",
+        github: "https://github.com/SenpaiKouhai/senhai-connect"
+    },
+    {
+        image: "/images/projects/shv2.png",
+        title: "Senhai Connect V2",
+        description:
+            "Watch videos or movies together in sync on top of Peerjs. Version 2 of Senhai Connect with seamless connection.",
+        tags: [
+            "ReactJS",
+            "MaterialUI",
+            "NodeJS",
+            "ExpressJS",
+            "PeerJS",
+            "Vercel",
+        ],
+        preview: "https://sh-connect-v2.vercel.app",
+        github: "https://github.com/senhai-kun/sh-connect-v2"
+    },
+    {
+        image: "/images/projects/neust.png",
+        title: "NEUST",
+        description:
+            "A UX design of Nueva Ecija University of Science and Technology website.",
+        tags: [
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "Render",
+        ],
+        preview: "https://neust.onrender.com",
+        github: "https://github.com/senhai-kun/neust"
+    },
+    {
+        image: "/images/projects/neust.png",
+        title: "Senhai",
+        description:
+            "A UX design of Nueva Ecija University of Science and Technology website.",
+        tags: [
+            "Javascript",
+            "React Native",
+            "MaterialUI",
+            "NodeJS",
+            "ExpressJS",
+            "Redux",
+            "Appcenter Code Push",
+        ],
+        github: "https://github.com/senhai-kun/sh-mobile"
+    },
+];
+
+export default data;
