@@ -11,7 +11,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
     return (
         <html lang="en">
-            <body className="font-Sans bg-left bg-auto md:bg-contain md:bg-right-bottom bg-fixed bg-blend-difference" style={{ backgroundImage: `url(${bg.src})` }}>
+            <body className="font-Sans bg-left bg-fixed md:bg-contain md:bg-right-bottom " style={{ backgroundImage: `url(${bg.src})` }}>
                 <Navigation />
                 <div className="container mx-auto px-4 lg:px-10 xl:px-20 ">
                     {children}

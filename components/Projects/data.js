@@ -1,23 +1,6 @@
 
 const data = [
     {
-        image: "/images/projects/mentor.png",
-        title: "Mentorverse",
-        description:
-            "Connect with experienced mentors who can guide you towards your personal and professional goals.",
-        tags: [
-            "ReactJS",
-            "MaterialUI",
-            "NodeJS",
-            "ExpressJS",
-            "MongoDB",
-            "Socket.IO",
-            "Vercel",
-        ],
-        preview: "https://mentorverse.vercel.app",
-        github: "https://github.com/senhai-kun/Find_A_Mentor"
-    },
-    {
         image: "/images/projects/sh.png",
         title: "Senhai Connect",
         description:
@@ -65,10 +48,27 @@ const data = [
         github: "https://github.com/senhai-kun/neust"
     },
     {
-        image: "/images/projects/neust.png",
+        image: "/images/projects/mentor.png",
+        title: "Mentorverse",
+        description:
+            "Connect with experienced mentors who can guide you towards your personal and professional goals.",
+        tags: [
+            "ReactJS",
+            "MaterialUI",
+            "NodeJS",
+            "ExpressJS",
+            "MongoDB",
+            "Socket.IO",
+            "Vercel",
+        ],
+        preview: "https://mentorverse.vercel.app",
+        github: "https://github.com/senhai-kun/Find_A_Mentor"
+    },
+    {
+        image: "/images/projects/mobile.png",
         title: "Senhai",
         description:
-            "A UX design of Nueva Ecija University of Science and Technology website.",
+            "Watch anime on-the-go with our app. Personalized recommendations and latest releases.",
         tags: [
             "Javascript",
             "React Native",
