@@ -2,59 +2,59 @@
 
 const data = [
     {
-        image: "/html.png",
+        image: "/images/skills/html.png",
         title: "HTML 5"
     },
     {
-        image: "/css.png",
+        image: "/images/skills/css.png",
         title: "CSS 3"
     },
     {
-        image: "/js.png",
+        image: "/images/skills/js.png",
         title: "JAVASCRIPT"
     },
     {
-        image: "/react.png",
+        image: "/images/skills/react.png",
         title: "React JS"
     },
     {
-        image: "/mui.png",
+        image: "/images/skills/mui.png",
         title: "Material UI"
     },
     {
-        image: "/bootstrap.png",
+        image: "/images/skills/bootstrap.png",
         title: "Bootstrap"
     },
     {
-        image: "/native.png",
+        image: "/images/skills/native.png",
         title: "React Native"
     },
     {
-        image: "/reactexpo.png",
+        image: "/images/skills/reactexpo.png",
         title: "Expo"
     },
     {
-        image: "/node.png",
+        image: "/images/skills/node.png",
         title: "Node JS"
     },
     {
-        image: "/express.png",
+        image: "/images/skills/express.png",
         title: "Express JS"
     },
     {
-        image: "/mongodb.png",
+        image: "/images/skills/mongodb.png",
         title: "MongoDB"
     },
     {
-        image: "/peer.png",
+        image: "/images/skills/peer.png",
         title: "Peer JS"
     },
     {
-        image: "/socket.png",
+        image: "/images/skills/socket.png",
         title: "Socket.IO"
     },
     {
-        image: "/php.png",
+        image: "/images/skills/php.png",
         title: "PHP"
     },
 ]
