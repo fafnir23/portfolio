@@ -1,4 +1,3 @@
-
 const data = [
     {
         image: "/images/projects/sh.png",
@@ -15,7 +14,7 @@ const data = [
             "Vercel",
         ],
         preview: "https://sh-connect.vercel.app",
-        github: "https://github.com/SenpaiKouhai/senhai-connect"
+        github: "https://github.com/SenpaiKouhai/senhai-connect",
     },
     {
         image: "/images/projects/shv2.png",
@@ -31,21 +30,16 @@ const data = [
             "Vercel",
         ],
         preview: "https://sh-connect-v2.vercel.app",
-        github: "https://github.com/senhai-kun/sh-connect-v2"
+        github: "https://github.com/senhai-kun/sh-connect-v2",
     },
     {
         image: "/images/projects/neust.png",
         title: "NEUST",
         description:
             "A UX design of Nueva Ecija University of Science and Technology website.",
-        tags: [
-            "HTML",
-            "CSS",
-            "Tailwind",
-            "Render",
-        ],
+        tags: ["HTML", "CSS", "Tailwind", "Render"],
         preview: "https://neust.onrender.com",
-        github: "https://github.com/senhai-kun/neust"
+        github: "https://github.com/senhai-kun/neust",
     },
     {
         image: "/images/projects/mentor.png",
@@ -62,7 +56,7 @@ const data = [
             "Vercel",
         ],
         preview: "https://mentorverse.vercel.app",
-        github: "https://github.com/senhai-kun/Find_A_Mentor"
+        github: "https://github.com/senhai-kun/Find_A_Mentor",
     },
     {
         image: "/images/projects/mobile.png",
@@ -78,7 +72,9 @@ const data = [
             "Redux",
             "Appcenter Code Push",
         ],
-        github: "https://github.com/senhai-kun/sh-mobile"
+        preview:
+            "https://drive.google.com/file/d/16sVMq1xYSHChMCvXYtol1sRCMLirFALP/view",
+        github: "https://github.com/senhai-kun/sh-mobile",
     },
 ];
 
