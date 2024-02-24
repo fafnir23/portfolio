@@ -1,5 +1,23 @@
 const data = [
     {
+        image: "/images/projects/mobile.png",
+        title: "Senhai",
+        description:
+            "Watch anime on-the-go with our app. Personalized recommendations and latest releases.",
+        tags: [
+            "Javascript",
+            "React Native",
+            "MaterialUI",
+            "NodeJS",
+            "ExpressJS",
+            "Redux",
+            "Appcenter Code Push",
+        ],
+        preview:
+            "https://drive.google.com/file/d/16sVMq1xYSHChMCvXYtol1sRCMLirFALP/view",
+        github: "https://github.com/senhai-kun/sh-mobile",
+    },
+    {
         image: "/images/projects/sh.png",
         title: "Senhai Connect",
         description:
@@ -11,7 +29,6 @@ const data = [
             "NodeJS",
             "ExpressJS",
             "Socket.IO",
-            "Vercel",
         ],
         preview: "https://sh-connect.vercel.app",
         github: "https://github.com/SenpaiKouhai/senhai-connect",
@@ -21,14 +38,7 @@ const data = [
         title: "Senhai Connect V2",
         description:
             "Watch videos or movies together in sync on top of Peerjs. Version 2 of Senhai Connect with seamless connection.",
-        tags: [
-            "ReactJS",
-            "MaterialUI",
-            "NodeJS",
-            "ExpressJS",
-            "PeerJS",
-            "Vercel",
-        ],
+        tags: ["ReactJS", "MaterialUI", "NodeJS", "ExpressJS", "PeerJS"],
         preview: "https://sh-connect-v2.vercel.app",
         github: "https://github.com/senhai-kun/sh-connect-v2",
     },
@@ -53,28 +63,9 @@ const data = [
             "ExpressJS",
             "MongoDB",
             "Socket.IO",
-            "Vercel",
         ],
         preview: "https://mentorverse.vercel.app",
         github: "https://github.com/senhai-kun/Find_A_Mentor",
-    },
-    {
-        image: "/images/projects/mobile.png",
-        title: "Senhai",
-        description:
-            "Watch anime on-the-go with our app. Personalized recommendations and latest releases.",
-        tags: [
-            "Javascript",
-            "React Native",
-            "MaterialUI",
-            "NodeJS",
-            "ExpressJS",
-            "Redux",
-            "Appcenter Code Push",
-        ],
-        preview:
-            "https://drive.google.com/file/d/16sVMq1xYSHChMCvXYtol1sRCMLirFALP/view",
-        github: "https://github.com/senhai-kun/sh-mobile",
     },
 ];
 
